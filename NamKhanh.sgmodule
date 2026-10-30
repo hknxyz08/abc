@@ -3,9 +3,6 @@
 #!author=Hoang Khanh Nam (CRE: DINHDUYVINH & AKIRA)
 #!url=https://raw.githubusercontent.com/hknxyz08/abc/main/NamKhanh.sgmodule
 
-[General]
-# Ép toàn bộ luồng mạng qua DNS Mỹ (Google US) để test tính năng
-dns-server = 8.8.8.8, 8.8.4.4, system
 
 [Rule]
 # --- YOUTUBE CHẶN QUẢNG CÁO ---
